@@ -1,2 +1,3 @@
 # reversing
-long period
+
+mov : 움직이다
